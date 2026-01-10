@@ -1,5 +1,5 @@
+import { DraftPage } from './pages/DraftPage'
 
 export default function App() {
-  return <h1>Draft Assistant</h1>
+  return <DraftPage />
 }
-
