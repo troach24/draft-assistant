@@ -1,7 +1,5 @@
 # Draft Assistant (Lean Demo)
 
-Try it out: https://draft-assistant-pi.vercel.app/
-
 A lightweight fantasy football draft helper built with React + TypeScript + Vite + Tailwind.
 
 This project is intentionally scoped as a lean demo to highlight:
